@@ -1,11 +1,11 @@
 [
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Product_Categories(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Product_Categories.csv",
         "p_sink_folder": "AdventureWorks_Product_Categories",
         "p_sink_file": "AdventureWorks_Product_Categories.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Calendar(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Calendar.csv",
         "p_sink_folder": "AdventureWorks_Calendar",
         "p_sink_file": "AdventureWorks_Calendar.csv"
     },
@@ -15,22 +15,22 @@
         "p_sink_file": "AdventureWorks_Customers.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Product_Subcategories(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Product_Subcategories.csv",
         "p_sink_folder": "Product_Subcategories",
         "p_sink_file": "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Products(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Products.csv",
         "p_sink_folder": "AdventureWorks_Products",
         "p_sink_file": "AdventureWorks_Products.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Returns(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Returns.csv",
         "p_sink_folder": "AdventureWorks_Returns",
         "p_sink_file": "AdventureWorks_Returns.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Sales_2015(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Sales_2015.csv",
         "p_sink_folder": "AdventureWorks_Sales_2015",
         "p_sink_file": "AdventureWorks_Sales_2015.csv"
     },
@@ -45,7 +45,7 @@
         "p_sink_file": "AdventureWorks_Sales_2017.csv"
     },
     {
-        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Territories(1).csv",
+        "p_rel_url": "sanjay2499/dbtpractice/main/seeds/AdventureWorks_Territories.csv",
         "p_sink_folder": "AdventureWorks_Territories",
         "p_sink_file": "AdventureWorks_Territories.csv"
     }
